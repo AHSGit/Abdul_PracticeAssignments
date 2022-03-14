@@ -1,2 +1,2 @@
 # assignments
-For submission of assignments for the ACPIFSD course.
+For submission of practice assignments for the ACPIFSD course.
